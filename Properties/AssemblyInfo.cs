@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("System.Security.Cryptography")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Cryptography Next Generation API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("System.Security.Cryptography")]
