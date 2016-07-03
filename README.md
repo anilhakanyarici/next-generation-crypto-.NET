@@ -1,3 +1,5 @@
+#####ECDsa, ECDH and AES encryption solutions for .NET2.0, Mono and Unity.
+
 This Project contains 2 cryptographic algorithms denote NextGenerationCryptography and 2 key derivation functions. One of the key 
 derivation function is in accordance wih RFC2898, the other one is in accordance with NIST SP800-90A standart.
 ###    * Usage of the Rfc2898KeyDeriver Class
